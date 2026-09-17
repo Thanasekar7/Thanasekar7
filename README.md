@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a Senior Engineer specialising in data engineering, ETL development and cloud data platforms.
+I am a Senior Data Engineer specializing in data engineering, ETL development and cloud data platforms.
 
 - 🔭 Building and optimising scalable data pipelines
 - 🌱 Currently learning BigQuery and Databricks
